@@ -1,4 +1,7 @@
-📊 About the Dataset
+📊 About the Dataset:
+
+I  got this dataset from this link: [https://www.kaggle.com/datasets/ronikdedhia/fake-news?utm_source=chatgpt.com
+](url)
 
 id: Unique id for a news article
 
