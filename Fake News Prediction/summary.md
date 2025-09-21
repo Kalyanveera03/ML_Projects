@@ -1,8 +1,7 @@
 📊 About the Dataset:
 
-I  got this dataset from this link: [https://www.kaggle.com/datasets/ronikdedhia/fake-news?utm_source=chatgpt.com
-](url)
-
+- You can get the dataset from kaggle and it should be around 98MB
+  
 id: Unique id for a news article
 
 title: Title of the news article
